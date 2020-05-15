@@ -12,3 +12,4 @@
 * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 * Application's CSS file is properly commented.
 
+![image](https://user-images.githubusercontent.com/61810306/82001547-02021700-9621-11ea-8b36-8bd1d9f52c76.png)
